@@ -1,0 +1,2 @@
+# AntiAfk
+Universal Anti-Afk
